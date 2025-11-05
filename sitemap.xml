@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/index</loc>
+    <loc>https://www.citelytics.com/</loc>
   </url>
-  <url><loc>/usb-3-2-gen-2-10gbps</loc></url>
-  <url><loc>/soccer-goal-size-7-32x2-44m</loc></url>
-  <url><loc>/aa-battery-voltage</loc></url>
-  <url><loc>/passport-photo-size</loc></url>
-  <url><loc>/hdmi-2-1-48gbps</loc></url>
-  <url><loc>/olympic-swimming-pool-dimensions</loc></url>
-  <url><loc>/cpu-tjunction-max</loc></url>
-  <url><loc>/credit-card-size-iso-iec-7810-id-1</loc></url>
-  <url><loc>/basketball-hoop-height</loc></url>
-  <url><loc>/ddr5-ram-base-speed-jedec</loc></url>
-  <url><loc>/interior-door-height-us</loc></url>
-  <url><loc>/wifi-6e-frequency-bands</loc></url>
-  <url><loc>/car-tire-pressure-recommended</loc></url>
-  <url><loc>/a4-paper-size-iso-216</loc></url>
-  <url><loc>/ethernet-cat6-maximum-length</loc></url>
-  <url><loc>/normal-adult-blood-pressure</loc></url>
+  <url><loc>https://www.citelytics.com/usb-3-2-gen-2-10gbps</loc></url>
+  <url><loc>https://www.citelytics.com/soccer-goal-size-7-32x2-44m</loc></url>
+  <url><loc>https://www.citelytics.com/aa-battery-voltage</loc></url>
+  <url><loc>https://www.citelytics.com/passport-photo-size</loc></url>
+  <url><loc>https://www.citelytics.com/hdmi-2-1-48gbps</loc></url>
+  <url><loc>https://www.citelytics.com/olympic-swimming-pool-dimensions</loc></url>
+  <url><loc>https://www.citelytics.com/cpu-tjunction-max</loc></url>
+  <url><loc>https://www.citelytics.com/credit-card-size-iso-iec-7810-id-1</loc></url>
+  <url><loc>https://www.citelytics.com/basketball-hoop-height</loc></url>
+  <url><loc>https://www.citelytics.com/ddr5-ram-base-speed-jedec</loc></url>
+  <url><loc>https://www.citelytics.com/interior-door-height-us</loc></url>
+  <url><loc>https://www.citelytics.com/wifi-6e-frequency-bands</loc></url>
+  <url><loc>https://www.citelytics.com/car-tire-pressure-recommended</loc></url>
+  <url><loc>https://www.citelytics.com/a4-paper-size-iso-216</loc></url>
+  <url><loc>https://www.citelytics.com/ethernet-cat6-maximum-length</loc></url>
+  <url><loc>https://www.citelytics.com/normal-adult-blood-pressure</loc></url>
   <url>
-    <loc>/data/facts.csv</loc>
+    <loc>https://www.citelytics.com/data/facts.csv</loc>
   </url>
   <url>
-    <loc>/data/facts.json</loc>
+    <loc>https://www.citelytics.com/data/facts.json</loc>
   </url>
 </urlset>
 
