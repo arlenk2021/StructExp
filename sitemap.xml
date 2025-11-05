@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/index.html</loc>
-    <lastmod>2025-11-05</lastmod>
+    <loc>/index</loc>
   </url>
-  <url><loc>/usb-3-2-gen-2-10gbps.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/soccer-goal-size-7-32x2-44m.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/aa-battery-voltage.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/passport-photo-size.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/hdmi-2-1-48gbps.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/olympic-swimming-pool-dimensions.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/cpu-tjunction-max.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/credit-card-size-iso-iec-7810-id-1.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/basketball-hoop-height.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/ddr5-ram-base-speed-jedec.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/interior-door-height-us.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/wifi-6e-frequency-bands.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/car-tire-pressure-recommended.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/a4-paper-size-iso-216.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/ethernet-cat6-maximum-length.html</loc><lastmod>2025-11-05</lastmod></url>
-  <url><loc>/normal-adult-blood-pressure.html</loc><lastmod>2025-11-05</lastmod></url>
+  <url><loc>/usb-3-2-gen-2-10gbps</loc></url>
+  <url><loc>/soccer-goal-size-7-32x2-44m</loc></url>
+  <url><loc>/aa-battery-voltage</loc></url>
+  <url><loc>/passport-photo-size</loc></url>
+  <url><loc>/hdmi-2-1-48gbps</loc></url>
+  <url><loc>/olympic-swimming-pool-dimensions</loc></url>
+  <url><loc>/cpu-tjunction-max</loc></url>
+  <url><loc>/credit-card-size-iso-iec-7810-id-1</loc></url>
+  <url><loc>/basketball-hoop-height</loc></url>
+  <url><loc>/ddr5-ram-base-speed-jedec</loc></url>
+  <url><loc>/interior-door-height-us</loc></url>
+  <url><loc>/wifi-6e-frequency-bands</loc></url>
+  <url><loc>/car-tire-pressure-recommended</loc></url>
+  <url><loc>/a4-paper-size-iso-216</loc></url>
+  <url><loc>/ethernet-cat6-maximum-length</loc></url>
+  <url><loc>/normal-adult-blood-pressure</loc></url>
   <url>
     <loc>/data/facts.csv</loc>
-    <lastmod>2025-11-05</lastmod>
   </url>
   <url>
     <loc>/data/facts.json</loc>
-    <lastmod>2025-11-05</lastmod>
   </url>
 </urlset>
 
