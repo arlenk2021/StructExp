@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hyperecall.com/sitemap.xml
+Sitemap: https://citelytics.com/sitemap.xml
 
 
